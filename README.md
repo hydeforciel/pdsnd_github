@@ -5,9 +5,7 @@ Porject created on 1/19/2019
 Bikeshare Data Analysis in USA
 
 ### Description
-
-To explore the bikeshare data among Chicargo, New York City, and Washington and delete invalid function import
-
+To explore the bikeshare data among Chicargo, New York City, and Washington and delete invalid function import and delete invalid function import
 
 ### Files used
 File including bikeshare.py
