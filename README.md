@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Revise more accurate python code to delete invalid function import
 
 ### Files used
 Include the files used
