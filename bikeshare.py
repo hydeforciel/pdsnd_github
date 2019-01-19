@@ -6,8 +6,11 @@ import json
 CITY_DATA = { 'Chicago': 'chicago.csv',
               'New York City': 'new_york_city.csv',
               'Washington': 'washington.csv' }
+#Add city list 
 cities = ['Chicago', 'New York City', 'Washington']
+#Add month list
 months = ['January', 'February', 'March', 'April', 'May', 'June', 'All']
+#Add day list
 days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'All']
 
 
